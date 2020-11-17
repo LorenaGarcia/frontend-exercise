@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/frontend-exercise/static/css/main.d571b642.chunk.css",
+    "main.js": "/frontend-exercise/static/js/main.20583f68.chunk.js",
+    "main.js.map": "/frontend-exercise/static/js/main.20583f68.chunk.js.map",
+    "runtime-main.js": "/frontend-exercise/static/js/runtime-main.3b0f2e4d.js",
+    "runtime-main.js.map": "/frontend-exercise/static/js/runtime-main.3b0f2e4d.js.map",
+    "static/css/2.55d8add8.chunk.css": "/frontend-exercise/static/css/2.55d8add8.chunk.css",
+    "static/js/2.cc8163df.chunk.js": "/frontend-exercise/static/js/2.cc8163df.chunk.js",
+    "static/js/2.cc8163df.chunk.js.map": "/frontend-exercise/static/js/2.cc8163df.chunk.js.map",
+    "static/js/3.bfa800df.chunk.js": "/frontend-exercise/static/js/3.bfa800df.chunk.js",
+    "static/js/3.bfa800df.chunk.js.map": "/frontend-exercise/static/js/3.bfa800df.chunk.js.map",
+    "index.html": "/frontend-exercise/index.html",
+    "static/css/2.55d8add8.chunk.css.map": "/frontend-exercise/static/css/2.55d8add8.chunk.css.map",
+    "static/css/main.d571b642.chunk.css.map": "/frontend-exercise/static/css/main.d571b642.chunk.css.map",
+    "static/js/2.cc8163df.chunk.js.LICENSE.txt": "/frontend-exercise/static/js/2.cc8163df.chunk.js.LICENSE.txt",
+    "static/media/atornillador.6919f6f5.png": "/frontend-exercise/static/media/atornillador.6919f6f5.png",
+    "static/media/atornillador2.b632be26.png": "/frontend-exercise/static/media/atornillador2.b632be26.png",
+    "static/media/banner.e3da5c48.png": "/frontend-exercise/static/media/banner.e3da5c48.png",
+    "static/media/cable.87027f2f.png": "/frontend-exercise/static/media/cable.87027f2f.png",
+    "static/media/carretilla.69406362.png": "/frontend-exercise/static/media/carretilla.69406362.png",
+    "static/media/coflex.4db32ea6.png": "/frontend-exercise/static/media/coflex.4db32ea6.png",
+    "static/media/compresor.6a48a5c6.png": "/frontend-exercise/static/media/compresor.6a48a5c6.png",
+    "static/media/lampara.27fc628b.png": "/frontend-exercise/static/media/lampara.27fc628b.png",
+    "static/media/logo.5ea58664.png": "/frontend-exercise/static/media/logo.5ea58664.png",
+    "static/media/martillo.97b49a36.png": "/frontend-exercise/static/media/martillo.97b49a36.png",
+    "static/media/phillips.765a3314.png": "/frontend-exercise/static/media/phillips.765a3314.png",
+    "static/media/placa.fcb66fdc.png": "/frontend-exercise/static/media/placa.fcb66fdc.png",
+    "static/media/steren.3858b173.png": "/frontend-exercise/static/media/steren.3858b173.png",
+    "static/media/taladro.e9bb7273.png": "/frontend-exercise/static/media/taladro.e9bb7273.png",
+    "static/media/teka.f7b3ab10.png": "/frontend-exercise/static/media/teka.f7b3ab10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b0f2e4d.js",
+    "static/css/2.55d8add8.chunk.css",
+    "static/js/2.cc8163df.chunk.js",
+    "static/css/main.d571b642.chunk.css",
+    "static/js/main.20583f68.chunk.js"
+  ]
+}
